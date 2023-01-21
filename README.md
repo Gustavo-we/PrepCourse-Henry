@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de modulo2 del prepcourse de henry
+Ete proyeto es una prueba de como crear un repositorio y clonarlo desde GitBash hasta mi escritorio local
